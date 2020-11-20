@@ -78,15 +78,15 @@ body {
     margin-top: 25px;
     padding: 10px;}
     #text{
-      float:right;
-      width:50%;
-      margin-top:0px;
-      color: white;
-      font-weight: 600;
-      text-align:left;
-       align-items:center;
-       background-color:rgb(144, 202, 185);
-     display:flex;
+  float:right;
+  width:50%;
+  margin-top:0px;
+   color: white;
+  font-weight: 600;
+  text-align:left;
+  align-items:center;
+  background-color:rgb(144, 202, 185);
+  display:flex;
   flex-direction:column;
   margin: 5px;
   height: 60%;
